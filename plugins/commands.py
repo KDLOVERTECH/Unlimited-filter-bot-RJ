@@ -21,7 +21,7 @@ from database.filters_mdb import filter_stats
 from database.users_mdb import add_user, find_user, all_users
 
 
-@trojanz.on_message(filters.command('id') & (filters.private | filters.group))
+@KD_MOVIEZ.on_message(filters.command('id') & (filters.private | filters.group))
 async def showid(client, message):
     chat_type = message.chat.type
 
@@ -46,7 +46,7 @@ async def showid(client, message):
         )   
 
 
-@trojanz.on_message(filters.command('info') & (filters.private | filters.group))
+@KD_MOVIEZ.on_message(filters.command('info') & (filters.private | filters.group))
 async def showinfo(client, message):
     try:
         cmd, id = message.text.split(" ", 1)
@@ -209,7 +209,7 @@ async def bot_status(client,message):
     )
 
 
-@trojanz.on_message(filters.command('start') & filters.private)
+@KDLOVERTECH .on_message(filters.command('start') & filters.private)
 async def start(client, message):
     await message.reply_text(
         text=Script.START_MSG.format(message.from_user.mention),
@@ -235,7 +235,7 @@ async def start(client, message):
             pass
 
 
-@trojanz.on_message(filters.command('help') & filters.private)
+@KD_MOVIEZ.on_message(filters.command('help') & filters.private)
 async def help(client, message):
     await message.reply_text(
         text=Script.HELP_MSG,
@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🔰Join Channel🔰", url="https://t.me/malluinstafollowers"),
+                    InlineKeyboardButton("🔰Join Channel🔰", url="https://t.me/KDLOVERTECH"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("🔰Join Group🔰", url="https://t.me/malluinstaufollowers"),
-                    InlineKeyboardButton("details about Group", url="https://t.me/Malluinstabot")
+                    InlineKeyboardButton("🔰Join Group🔰", url="https://t.me/KDLOVERTECH"),
+                    InlineKeyboardButton("details about Group", url="https://t.me/KDLOVERTECH_bot")
                 ]
             ]
         ),
@@ -256,7 +256,7 @@ async def help(client, message):
     )
 
 
-@trojanz.on_message(filters.command('about') & filters.private)
+@KD_MOVIEZ.on_message(filters.command('about') & filters.private)
 async def about(client, message):
     await message.reply_text(
         text=Script.ABOUT_MSG,
@@ -265,7 +265,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/DarkDevil1265/Unlimited-filter-bot-RJ")
+                        "SOURCE CODE", url="https://github.com/KDLOVERTECH/KDLOVERTECH")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
