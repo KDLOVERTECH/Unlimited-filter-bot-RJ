@@ -8,22 +8,22 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
+  <a href="https://github.com/KDLOVERTECH/Unlimited-Filter-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/KDLOVERTECH/Unlimited-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/KDLOVERTECH/KDLOVERTECH/fork">
+    <img src="https://img.shields.io/github/forks/KDLOVERTECH/KDLOVERTECH?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![KDLOVERTECH](https://img.shields.io/badge/KDLOVERTECH-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/KDLOVERTECH)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![KDLOVERTECH](https://img.shields.io/badge/KDLOVERTECH-Support-red?style=flat&logo=telegram)](https://telegram.dog/KDLOVERTECHSupport)  [![KDLOVERTECH](https://img.shields.io/badge/KDLOVERTECH-Website-red?style=flat&logo=CodersRank)](https://KDLOVERTECH.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![KD_MOVIEZ](https://img.shields.io/badge/License-KD_MOVIEZ-blue?style=flat)](https://github.com/KDLOVERTECH/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/KDLOVERTECH/KDLOVERTECH)
 
 
 ## An advanced Filter Bot with nearly unlimitted filters!
@@ -74,22 +74,22 @@
 
 ## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
+[Click here to see tutorial video](https://youtube.com/channel/UC95S0AuVudFfUKTwvcCD-kg)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [Infotel KDLOVERTECH](https://telegram.dog/KDLOVERTECH) and [movies request group](https://telegram.dog/kannada_movies_groups) for the video
 
 
-## Any bugs or errors or suggestions, report at [RJMALLU](https://t.me/RJMALLU)
+## Any bugs or errors or suggestions, report at [KDLOVERTECH](https://t.me/KDLOVERTECH)
 
 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkDevil1265/Unlimited-filter-bot-RJ)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KDLOVERTECH/KDLOVERTECH)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/DarkDevil1265/Unlimited-filter-bot-RJ
+git clone https://github.com/KDLOVERTECH/KDLOVERTECH
 cd Unlimited-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
