@@ -85,7 +85,7 @@ Thanks to [InfotelGroup](https://telegram.dog/kannada_movies_Groups) and [KD_MOV
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KDLOVERTECH/KDLOVERTECH)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KDLOVERTECH/Unlimited-filter-bot-RJ)
 
 ### Deploy in your vps
 ```sh
