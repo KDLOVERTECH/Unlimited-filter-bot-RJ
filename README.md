@@ -89,7 +89,7 @@ Thanks to [InfotelGroup](https://telegram.dog/kannada_movies_Groups) and [KD_MOV
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/KDLOVERTECH/KDLOVERTECH
+git clone https://github.com/KDLOVERTECH/Unlimited-filter-bot-RJ
 cd Unlimited-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
